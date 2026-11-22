@@ -53,12 +53,7 @@
 
 <img align="right" height="160" src="https://raw.githubusercontent.com/Animesh-Rathore/Animesh-Rathore/master/assets/goku.gif" alt="Anime animation"/>
 
-<h3 align="left">🎯 Currently</h3>
 
-- Learning Software Engineering
-- Building full-stack projects
-- Improving problem-solving skills
-- Exploring databases and backend development
 
 <br clear="right"/>
 
